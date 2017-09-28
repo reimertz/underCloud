@@ -1,0 +1,14 @@
+{
+  "company": "example-corp",
+  "description": "a pretty cool company ",
+  "rate": "50",
+  "currency": "$",
+  "timestamps": [
+    {
+      "id": 1,
+      "hours": "1",
+      "when": "2017-09-28T18:49:07.128Z",
+      "message": "example entry for undercloud"
+    }
+  ]
+}
