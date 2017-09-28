@@ -16,7 +16,7 @@ Luckily, there is one hidden feature we could utilize to solve this issue: the a
 
 So if you combine all of this, you get underCloud, or `_`.
 
-underCloud is has just a _very_ opinionated folder structure, symlinking `/Users/$(whoami)/Library/Mobile Documents/com~apple~CloudDocs/_` to `~/_`
+So, underCloud is just a _very_ opinionated folder structure, symlinking `/Users/$(whoami)/Library/Mobile Documents/com~apple~CloudDocs/_` to `~/_`. That's it, nothing more.
 
 
 ```
