@@ -48,7 +48,7 @@ underCloud is has just a _very_ opinionated folder structure, symlinking `/Users
 ## Usage ⚠ read before copy-pasting! ⚠
 
 ```
-# Be sure you don't have a folder in your iCloud named _
+# Be sure you don't have a folder at the top hierarchy in your iCloud named _
 
 $ cd "/Users/$(whoami)/Library/Mobile Documents/com~apple~CloudDocs/"
 $ git clone --depth=1 https://github.com/reimertz/underCloud _
